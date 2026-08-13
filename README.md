@@ -126,3 +126,4 @@ FreshMart-Data-Pipeline/
 
 ### Gold Layer – Delivery Performance
 ![Delivery Performance](screenshots/03_Gold_Delivery_Performance.png)
+Fix README project structure
