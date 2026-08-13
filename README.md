@@ -116,3 +116,13 @@ FreshMart-Data-Pipeline/
 │
 └── docs/
     └── architecture.md
+## Project Screenshots
+
+### Gold Layer – Customer Summary
+![Customer Summary](screenshots/01_Gold_Customer_Summary.png)
+
+### Gold Layer – Daily Revenue by City
+![Daily Revenue](screenshots/02_Gold_Daily_Revenue.png)
+
+### Gold Layer – Delivery Performance
+![Delivery Performance](screenshots/03_Gold_Delivery_Performance.png)
